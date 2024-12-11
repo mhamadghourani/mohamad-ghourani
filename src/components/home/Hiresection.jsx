@@ -14,7 +14,7 @@ function Hiresection() {
         initial={{ scale: 0 }}
         animate={isInView ? { scale: 1 } : {}}
         transition={{ duration: 0.3 }}>
-        <img src='/public/suspect_8750111.png' alt='' />
+        <img src='/suspect_8750111.png' alt='' />
         <h2>why Me</h2>
         <p>
           As a skilled full-stack developer, I specialize in building scalable

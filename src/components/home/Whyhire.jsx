@@ -49,7 +49,7 @@ const Whyhire = () => {
                  whileTap={{ scale: 0.9 }}
                  transition={{ stiffness: 400, damping: 10 }}
                 className="myskill-right-d1">
-                    <img src="/public/business.png" alt="" />
+                    <img src="/business.png" alt="" />
                     <h4>
                         Visual Desgin
                     </h4>
@@ -60,7 +60,7 @@ const Whyhire = () => {
                  whileTap={{ scale: 0.9 }}
                  transition={{ stiffness: 400, damping: 10 }}
                 className="myskill-right-d2">
-                    <img src="/public/graduation-cap.png" alt="" />
+                    <img src="/graduation-cap.png" alt="" />
                     <h4>
                         Development
                     </h4>
@@ -72,7 +72,7 @@ const Whyhire = () => {
              whileTap={{ scale: 0.9 }}
              transition={{ stiffness: 400, damping: 10 }}
             className="hire-container-two">
-                <img src="/public/heart-beat.png" alt="" />
+                <img src="/heart-beat.png" alt="" />
                     <h4>
                         Deliverables
                     </h4>

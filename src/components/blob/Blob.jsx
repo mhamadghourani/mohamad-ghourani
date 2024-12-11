@@ -9,7 +9,7 @@ function Blob() {
         animate={{scale:1}}
         transition={{duration:0.3}}
     className='hero-right'>
-      <img src="/public/hero1.png" alt="" />
+      <img src="/hero1.png" alt="" />
     </motion.div>
   )
 }
