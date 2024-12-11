@@ -1,0 +1,31 @@
+.hero-right {
+    background-image: linear-gradient(30deg, #ffdb00, #ff8f00);
+    animation-name: blup;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }
+  @keyframes blup {
+    0% {
+      border-radius: 35rem 42rem 26rem 36rem/39rem 45rem 24rem 30rem;
+    }
+    25% {
+      border-radius: 39rem 47rem 36rem 44rem/47rem 49rem 31rem 38rem;
+    }
+    50% {
+      border-radius: 49rem 54rem 39rem 49rem/50rem 57rem 42rem 46rem;
+    }
+    75% {
+      border-radius: 38rem 47rem 36rem 44rem/47rem 49rem 31rem 38rem;
+    }
+    100% {
+      border-radius: 31rem 42rem 26rem 36rem/35rem 45rem 24rem 30rem;
+    }
+  }
+  .hero-right img {
+    width: 450px;
+  }
+  @media only screen and (max-width: 555px){
+      .hero-right img {
+       width: 350px;
+  }
+  }
