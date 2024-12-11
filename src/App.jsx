@@ -37,7 +37,7 @@ function ScrollToSection() {
 
 function App() {
   return (
-    <Router basename="/mohamad-ghourani"> 
+    <Router> 
       <Nav />
       <ScrollToSection />
       <Routes>
