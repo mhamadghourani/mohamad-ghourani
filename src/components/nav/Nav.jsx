@@ -28,7 +28,7 @@ function Nav() {
     <div className='nav'>
       <div className='nav-links'>
         <ul>
-          <li><a href='/' onClick={(e) => handleNavigation(e, "/", "home")}>HOME</a></li>
+          <li><Link to="/" /><a href='/' onClick={(e) => handleNavigation(e, "/", "home")}>HOME</a></li>
           <li><a href='/' onClick={(e) => handleNavigation(e, "/", "projects")}>PROJECT</a></li>
           <li><a href='/' onClick={(e) => handleNavigation(e, "/", "contact")}>CONTACT</a></li>
           <li><Link to='/about'>ABOUT</Link></li>
