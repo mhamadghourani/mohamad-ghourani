@@ -37,12 +37,12 @@ function ScrollToSection() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/mohamad-ghourani"> 
       <Nav />
       <ScrollToSection />
       <Routes>
         <Route
-          path='/mohamad-ghourani/'
+          path="/"
           element={
             <>
               <Home />
@@ -51,10 +51,10 @@ function App() {
             </>
           }
         />
-        <Route path='/about' element= {<About />} />
-        <Route path='/blog' element={<Blog />} />
-        <Route path='/privacypolicy' element={<PrivacyPolicy />} />
-        <Route path='/singleblog' element={<SingleBlog />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/privacypolicy" element={<PrivacyPolicy />} />
+        <Route path="/singleblog" element={<SingleBlog />} />
       </Routes>
       <Footer />
     </Router>
@@ -62,3 +62,4 @@ function App() {
 }
 
 export default App;
+
