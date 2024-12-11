@@ -37,7 +37,7 @@ function ScrollToSection() {
 
 function App() {
   return (
-    <Router> 
+    <Router basename="/mohamad-ghourani">  {/* Ensure basename matches GitHub repository */}
       <Nav />
       <ScrollToSection />
       <Routes>
@@ -62,4 +62,3 @@ function App() {
 }
 
 export default App;
-
