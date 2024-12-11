@@ -42,7 +42,7 @@ function App() {
       <ScrollToSection />
       <Routes>
         <Route
-          path='/'
+          path='/mohamad-ghourani/'
           element={
             <>
               <Home />
