@@ -4,7 +4,7 @@ function Footer() {
   return (
     <div className="footer">
         <div className="top">
-          <div className="logo-footer"><img src="/logo2.svg" alt="logo" /></div>
+          <div className="logo-footer"><img src="/mohamad-ghourani/logo2.svg" alt="logo" /></div>
           <div className="footer-links">
           <ul>
             <li><a href='https://www.instagram.com/moe_ghourani/'><img src='/instagram_15713420.png' alt='' /></a></li>
