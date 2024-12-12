@@ -44,9 +44,9 @@ EmailJS: Make sure to configure your EmailJS settings for the contact form to wo
 📢 Contact
 Feel free to reach out to me via email or connect with me on social media:
 
-Email: your-email@example.com
-LinkedIn: LinkedIn Profile
-GitHub: GitHub Profile
-Twitter: Twitter Profile
+Email: mhamadghourani155@gmail.com
+LinkedIn: https://www.linkedin.com/in/mohamad-al-ghourani-3b3aa5208
+GitHub: https://github.com/mhamadghourani
+
 ⚡ License
 This project is licensed under the MIT License - see the LICENSE file for details.
