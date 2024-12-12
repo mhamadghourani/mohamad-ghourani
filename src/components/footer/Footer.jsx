@@ -7,9 +7,9 @@ function Footer() {
           <div className="logo-footer"><img src="/mohamad-ghourani/logo2.svg" alt="logo" /></div>
           <div className="footer-links">
           <ul>
-            <li><a href='https://www.instagram.com/moe_ghourani/'><img src='/instagram_15713420.png' alt='' /></a></li>
-            <li><a href='https://www.linkedin.com/in/mohamad-al-ghourani-3b3aa5208/'><img src='/social_12942307.png' alt='' /></a></li>
-            <li><a href='https://github.com/mhamadghourani'><img src='/github_3291667.png' alt='' /></a></li>
+            <li><a href='https://www.instagram.com/moe_ghourani/'><img src='/mohamad-ghourani/instagram_15713420.png' alt='' /></a></li>
+            <li><a href='https://www.linkedin.com/in/mohamad-al-ghourani-3b3aa5208/'><img src='/mohamad-ghourani/social_12942307.png' alt='' /></a></li>
+            <li><a href='https://github.com/mhamadghourani'><img src='/mohamad-ghourani/github_3291667.png' alt='' /></a></li>
           </ul>
           </div>
         </div>

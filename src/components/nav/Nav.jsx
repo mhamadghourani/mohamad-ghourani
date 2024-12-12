@@ -35,7 +35,7 @@ function Nav() {
           <li><Link to="/blog">BLOG</Link></li>
         </ul>
         <div className="hamburger-menu" onClick={handleOpen}>
-          <img src="%PUBLIC_URL%/app.png" alt="" />
+          <img src="/mohamad-ghourani/app.png" alt="" />
           <div className={isOpen ? "menu" : "hide"}>
             <ul>
               <li><Link to="/" onClick={(e) => handleNavigation(e, "/", "home")}>HOME</Link></li>
@@ -47,13 +47,13 @@ function Nav() {
           </div>
         </div>
         <div className="logo">
-          <img src="%PUBLIC_URL%/logo.svg" alt="" onClick={(e) => handleNavigation(e, "/", "home")} />
+          <img src="/mohamad-ghourani/logo.svg" alt="" onClick={(e) => handleNavigation(e, "/", "home")} />
         </div>
         <div className="social">
           <ul>
-            <li><a href="https://www.instagram.com/moe_ghourani/"><img src="%PUBLIC_URL%/instagram_15713420.png" alt="" /></a></li>
-            <li><a href="https://www.linkedin.com/in/mohamad-al-ghourani-3b3aa5208/"><img src="%PUBLIC_URL%/social_12942307.png" alt="" /></a></li>
-            <li><a href="https://github.com/mhamadghourani"><img src="%PUBLIC_URL%/github_3291667.png" alt="" /></a></li>
+            <li><a href="https://www.instagram.com/moe_ghourani/"><img src="/mohamad-ghourani/instagram_15713420.png" alt="" /></a></li>
+            <li><a href="https://www.linkedin.com/in/mohamad-al-ghourani-3b3aa5208/"><img src="/mohamad-ghourani/social_12942307.png" alt="" /></a></li>
+            <li><a href="https://github.com/mhamadghourani"><img src="/mohamad-ghourani/github_3291667.png" alt="" /></a></li>
           </ul>
         </div>
       </div>

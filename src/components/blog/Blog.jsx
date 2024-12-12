@@ -18,7 +18,7 @@ function Blog() {
           <p><strong>AUTHOR</strong></p>
           <p>MOHAMAD</p>
         </div>
-        <div className="img"><img src="/background3.png" alt="" /></div>
+        <div className="img"><img src="/mohamad-ghourani/background3.png" alt="" /></div>
         <div className="info">
           <h3>{blog.blogTitle}</h3>
           <p>{blog.pOne.slice(0, 100)}...</p>

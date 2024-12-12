@@ -20,22 +20,22 @@ function Skills() {
             <motion.div  whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
         transition={{ stiffness: 400, damping: 10 }}>
-            <img src="/reactjs.png" alt="react" />
+            <img src="/mohamad-ghourani/reactjs.png" alt="react" />
         </motion.div>
             <motion.div  whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
         transition={{ stiffness: 400, damping: 10 }}>
-            <img src="/pngegg.png" alt="react" />
+            <img src="/mohamad-ghourani/pngegg.png" alt="react" />
         </motion.div>
             <motion.div  whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
         transition={{ stiffness: 400, damping: 10 }}>
-            <img src="/nodejs.png" alt="react" />
+            <img src="/mohamad-ghourani/nodejs.png" alt="react" />
         </motion.div>
             <motion.div  whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
         transition={{ stiffness: 400, damping: 10 }}>
-            <img src="/pngegg (1).png" alt="react" />
+            <img src="/mohamad-ghourani/pngegg (1).png" alt="react" />
         </motion.div>
         </motion.div>
     </div>
