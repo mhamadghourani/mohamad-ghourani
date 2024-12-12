@@ -1,5 +1,5 @@
 import "./footer.css"
-
+import { Link } from "react-router-dom";
 function Footer() {
   return (
     <div className="footer">
@@ -20,8 +20,8 @@ function Footer() {
             <p><strong>Email:</strong> mhamadghourani155@gmail.com</p>
             </div>
             <div className="mid-right">
-              <a href="/privacypolicy">PRIVACY POLICY</a>
-              <a href="/about">ABOUT</a>
+              <Link to="/privacypolicy">PRIVACY POLICY</Link>
+              <Link to="/about">ABOUT</Link>
             </div>
           </div>
           <div className="bottom">
